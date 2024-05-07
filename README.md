@@ -20,7 +20,7 @@ To run the project, you need to have Rust and Cargo installed.
 
 ```bash
 # Cloning the repository
-git clone https://github.com/yourusername/RustSecurePassGen.git
+git clone https://github.com/LF3551/RustSecurePassGen.git
 
 # Navigating to the project directory
 cd RustSecurePassGen

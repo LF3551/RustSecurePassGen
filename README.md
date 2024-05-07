@@ -1,6 +1,5 @@
 # 🛡️ RustSecurePassGen
 
-### Languages and Tools:
 ![Rust](https://img.shields.io/badge/-Rust-333333?style=flat&logo=rust)
 
 ## 📝 Description

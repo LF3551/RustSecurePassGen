@@ -1,5 +1,8 @@
 # 🛡️ RustSecurePassGen
 
+### Languages and Tools:
+![Rust](https://img.shields.io/badge/-Rust-333333?style=flat&logo=rust)
+
 ## 📝 Description
 RustSecurePassGen is a secure password generator developed in the Rust programming language. This project is designed to create high-entropy, random passwords that can be used to enhance account security. 🌐
 

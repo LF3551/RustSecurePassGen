@@ -1,0 +1,8 @@
+[package]
+name = "RustSecurePassGen"
+version = "0.1.0"
+edition = "2018"
+authors = ["Aleksei Aleinikov <aleksei.aleinikov.gr@gmail.com>"]
+
+[dependencies]
+rand = "0.8.5"

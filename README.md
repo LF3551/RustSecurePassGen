@@ -27,3 +27,6 @@ cd RustSecurePassGen
 
 # Building and running
 cargo run
+
+# Running tests
+cargo test
